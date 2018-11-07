@@ -55,3 +55,7 @@ img.photo1 {
   text-align: center;
   margin: 20px auto;
 }
+
+#banner {
+  background-image: url(images/snowtown.jpg);
+}
