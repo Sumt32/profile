@@ -1,0 +1,57 @@
+h1 {
+  font-size: 80px;
+  margin: 10px;
+  font-style: italic;
+}
+
+p {
+  margin: 10px;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: 'Spicy Rice', cursive;
+  font-size: 40px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+li {
+  display: inline-block;
+}
+
+.hometown {
+  font-size: 40px;
+  padding: 15px;
+  font-family: 'Pattaya', sans-serif;
+}
+
+img.photo {
+  width: 500px;
+}
+
+a {
+  text-decoration: none;
+  padding: 20px;
+}
+
+img.photo1 {
+  width: 700px;
+}
+
+.cardset {
+  font-weight: bold;
+  font-family: 'Snowburst One', cursive;
+  font-size: 30px;
+}
+
+.card {
+  max-width: 880px;
+  padding: 20px;
+  background-color: #fbeed7;
+  text-align: center;
+  margin: 20px auto;
+}
